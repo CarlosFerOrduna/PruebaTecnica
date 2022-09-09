@@ -7,18 +7,14 @@ adicionalmente deberá validar que el empleado sea mayor de edad. Una vez se hay
 superado estas validaciones se deberá almacenar la información en una base de datos mysql.
 El Servicio Web responderá con el objeto en estructura JSON, en el que se deberá adicionar la
 siguiente información:</p>
-<li>
-<ul>Tiempo de Vinculación a la compañía (años, meses)</ul>
-<ul>Edad actual del empleado (años, meses y días)</ul>
-</li>
+<li>Tiempo de Vinculación a la compañía (años, meses)</li>
+<li>Edad actual del empleado (años, meses y días)</li>
 <h2>Atributos del objeto empleado:</h2>
-<li>
-<ul>Nombres (String)</ul>
-<ul>Apellidos (String)</ul>
-<ul>Tipo de Documento (String)</ul>
-<ul>Número de Documento (String)</ul>
-<ul>Fecha de Nacimiento (Date)</ul>
-<ul>Fecha de Vinculación a la Compañía (Date)</ul>
-<ul>Cargo (String)</ul>
-<ul>Salario (Double)</ul>
-</li>
+<li>Nombres (String)</li>
+<li>Apellidos (String)</li>
+<li>Tipo de Documento (String)</li>
+<li>Número de Documento (String)</li>
+<li>Fecha de Nacimiento (Date)</li>
+<li>Fecha de Vinculación a la Compañía (Date)</li>
+<li>Cargo (String)</li>
+<li>Salario (Double)</li>
